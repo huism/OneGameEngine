@@ -27,9 +27,15 @@
     <ClInclude Include="src\OneGameEngine\EntryPoint.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\OneGameEngine\Log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\OneGameEngine\Application.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\OneGameEngine\Log.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
